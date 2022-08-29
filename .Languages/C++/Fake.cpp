@@ -11,13 +11,11 @@ typedef long long ll;
 typedef unsigned long long ull;
 typedef long double ldb;
 
-
 /* * * * * * * * * * * * * * * * * * variables * * * * * * * * * * * * * * * * * * * * * * */
 
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
 void Soul_2(void) {
-  
 }
 
 void Body_1(void) {
